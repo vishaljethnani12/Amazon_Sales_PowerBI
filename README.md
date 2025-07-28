@@ -9,8 +9,8 @@ This is a personal Power BI project built using hypothetical Amazon sales data o
 
 ## 📁 Files:
 - `amazon_sales_dashboard.pbix`
-- `sales_data.xlsx`
-- `category_data.xlsx`
+- `Amazon_Sales_Data.xlsx`
+- `Amazon_Category_Data.xlsx`
 
 ## 🔍 Purpose:
 The project focuses on transforming and visualizing data using Power Query, calculated columns, and custom visuals in Power BI.
